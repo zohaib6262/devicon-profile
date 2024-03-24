@@ -1,0 +1,36 @@
+.card {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  border-radius: 3rem;
+  opacity: 0px;
+  background-color: #ffffffc9;
+  margin-right: 5rem;
+}
+
+.inputType {
+  width: 100%;
+  margin: 0.5rem;
+  border-radius: 16px;
+  opacity: 0px;
+  background-color: #bab5b588;
+  outline: 0px solid #ffffff;
+  border: 1px solid black;
+}
+.cancel {
+  background-color: #abababc4;
+  border: 0px solid white;
+  color: rgba(34, 33, 33, 0.822);
+  border-radius: 18px;
+  font-size: smaller;
+}
+.cancel:hover {
+  background-color: #abababb8;
+  color: rgba(34, 33, 33, 0.822);
+}
+
+.addComment {
+  border: 0px solid white;
+  border-radius: 18px;
+  font-size: smaller;
+}
